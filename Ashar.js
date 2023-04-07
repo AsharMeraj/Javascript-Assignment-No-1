@@ -110,6 +110,7 @@ for(let i=1; i<=100; i++){
 }
 
 
+console.log("                      Task (Seven!)")
 alert("Now lets make the star pattern");
 let row = 5;
 let pattern = "";
